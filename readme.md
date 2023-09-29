@@ -1,6 +1,9 @@
 # Documentação da Landing Page - Digital Banking
 Bem-vindo à documentação da página de destino do Digital Banking. Esta documentação oferece uma visão geral do projeto, tecnologias utilizadas, paleta de cores e comportamento interativo da página.
+<<<<<<< HEAD
 ***
+=======
+>>>>>>> cb93a35e877ddc263cc41325dcdaca3764f95139
 
 ## Sobre o Projeto
 A landing page do Digital Banking é uma plataforma online que visa apresentar e promover os serviços bancários digitais oferecidos pelo Digital Banking. Este projeto tem como objetivo fornecer aos visitantes informações relevantes e incentivar o registro e uso dos serviços financeiros disponíveis.
@@ -21,12 +24,16 @@ O design da página foi criado por Anastasia Shlykova. Veja [aqui](https://www.f
 A paleta de cores utilizada no projeto é a seguinte:
 
 Roxo Claro (Clear Purple): #C39BF4
+
 Roxo Escuro (Dark Purple): #8B58CA
+
 Branco (Main White): #FAF9FF
+
 Preto (Main Black): #1E1E1E
+
 Cinza (Gray): #D9CCFF
+
 Cinza Claro (Light Gray): #E4D3FB
-Essas cores foram escolhidas para criar um design moderno e atraente que se destaca.
 
 ## Comportamento Interativo
 A landing page do Digital Banking possui um comportamento interativo controlado pelo JavaScript. O principal comportamento interativo é o carrossel de depoimentos na seção de depoimentos. O usuário pode deslizar para a esquerda ou direita para ver diferentes depoimentos de clientes.
